@@ -1,0 +1,3 @@
+display_name: Mobile Web View Publish
+short_description: Copy markdown docs and standalone html reports into the mobile-web-view phone viewer project.
+default_prompt: Copy the relevant artifact into the mobile-web-view project so it can be viewed remotely from the phone viewer.
